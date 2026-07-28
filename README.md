@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 # Hello, I'm Marcos
 <a href="https://www.linkedin.com/in/lamontlyon/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-Hello...
+I'm in the process of building out a GitHub page to display my over 20 years of working in the Information Technology and Cyber Security field.  More to come soon....
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey...
+My journey here will showcase the knowledge and skills I have amassed over the years....
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
