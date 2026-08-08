@@ -12,14 +12,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Marcos
-<a href="https://www.linkedin.com/in/lamontlyon/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Marcos Lyon 👋
 
-I'm in the process of building out a GitHub page to display my over 20 years of working in the Information Technology and Cyber Security field.  More to come soon....
+Cybersecurity Engineer & Enterprise Security Architect | Data Protection, DLP & CASB | 20+ Years in Enterprise Security
 
-## Objective
+## About Me
 
-My journey here will showcase the knowledge and skills I have amassed over the years....
+I design and secure enterprise data protection and messaging security infrastructure — with 20+ years across financial services, federal, and large-scale enterprise environments. My core focus is Data Loss Prevention (DLP), CASB, and enterprise email security architecture.
+
+Currently studying for the **CISSP exam (September 2026)**, deepening my foundation across security and risk management, security architecture, and communications/network security.
+
+This profile is where I'll be sharing projects, scripts, and notes related to:
+
+- 🔒 **Data Loss Prevention & CASB** — policy design, automation, and tuning
+- 📧 **Enterprise Email Security** — Secure Email Gateways, Microsoft Defender for Office 365, Symantec Messaging Gateway, DMARC/DKIM/SPF governance, BEC/anti-spoofing controls
+- ☁️ **Cloud & M365 Security** — Exchange Online, Azure, Microsoft 365 environments (I've supported O365 environments at 100,000+ user scale)
+- 🎯 **Security Architecture & Compliance** — governance frameworks, risk assessments, PoC evaluations
+- 📚 **CISSP Study Notes** — resources and notes as I prepare for the exam
+
+## Background
+
+Previously supported mission-critical environments at General Dynamics IT, Broadcom, Raytheon, Deutsche Bank, and Credit Suisse — including messaging infrastructure processing 50M+ messages monthly for USPS and enterprise Exchange/O365 deployments.
+
+## 🟢 Open to Work
+
+I'm currently open to new opportunities in **data security, DLP/CASB engineering, and enterprise security architecture**. Feel free to connect or reach out.
+
+📩 Lamont@stamont.com  
+🔗 [LinkedIn](https://linkedin.com/in/lamontlyon)
+
+---
+
+*Pinned repos and projects below reflect hands-on work in data protection and email security tooling.*
+
+## 📌 Pinned Projects
+
+### 🔍 dmarc-spf-audit-toolkit
+A PowerShell/Python toolkit for auditing SPF, DKIM, and DMARC records across enterprise domains — flags misconfigurations, missing records, and policy gaps that expose organizations to spoofing and BEC attacks.
+**Tech:** PowerShell, Python, DNS
+
+### 🛡️ dlp-policy-templates
+A library of reusable Symantec DLP policy templates and tuning guides for common data-exfiltration scenarios (PII, source code, financial data) — built from real-world policy management experience.
+**Tech:** Symantec DLP, Policy-as-Code
+
+### ☁️ casb-shadow-it-scripts
+Scripts and queries for identifying unsanctioned SaaS/cloud application usage via CASB logs, supporting shadow IT discovery and risk scoring.
+**Tech:** CASB, PowerShell, Log Analysis
+
+### 📧 exchange-o365-hardening-checklist
+A hardening and security-baseline checklist for Exchange Online / Microsoft 365 environments — covering mail flow rules, anti-phishing policies, and Defender for Office 365 configuration.
+**Tech:** Microsoft 365, Exchange Online, Defender for O365
+
+### 📚 cissp-study-notes
+My personal study notes and domain summaries while preparing for the CISSP exam (September 2026) — organized by the 8 CISSP domains.
+**Tech:** Markdown, Security Fundamentals
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
